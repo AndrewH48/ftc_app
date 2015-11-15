@@ -10,6 +10,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 /**
  * Created by Kaitlin 11/10/15.
+ * 11/12/15     Download file on the new computer
  */
 public class Gyroscope extends OpMode implements SensorEventListener
 {
