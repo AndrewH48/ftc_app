@@ -65,7 +65,6 @@ public class FtcOpModeRegister implements OpModeRegister {
     manager.register("TestBot", TestBot.class);
     manager.register("Accelerometer", AccelerationSensor.class);
     manager.register("Gyroscope", AccelerationSensor.class);
-    manager.register("LightSensorTesting", LightSensorTesting.class);
 
 
     /*
